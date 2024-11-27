@@ -8,12 +8,12 @@ Welcome to the tutorial on how to upgrade your **Original Prusa i3 MK3/MK3S/MK3S
 
 ## **Step 1: Preparing the Upgrade Kit**
 Ensure you have the **upgrade kit** from Prusa Research ready before proceeding.
-![Upgrade Kit]([https://example.com/upgrade-kit.jpg](https://cdn.help.prusa3d.com/wp-content/uploads/2024/08/488b1fe323da5f6c4276db8f95c7fe6e.jpg))
+![Upgrade Kit](https://media.printables.com/media/prints/57217/images/567879_64d27817-fbdf-4dd8-b69b-57ef2669cf33/mk3s_iso.png)
 
 ---
 
 ## **Step 2: Getting the Necessary Tools**
-![Upgrade Kit]([https://example.com/upgrade-kit.jpg](https://cdn.help.prusa3d.com/wp-content/uploads/2024/08/488b1fe323da5f6c4276db8f95c7fe6e.jpg))
+![Upgrade Kit](https://media.printables.com/media/prints/57217/images/567879_64d27817-fbdf-4dd8-b69b-57ef2669cf33/mk3s_iso.png)
 
 ### The Package Includes:
 - 🛠 **Needle-nose pliers** (1x)
@@ -26,7 +26,7 @@ Ensure you have the **upgrade kit** from Prusa Research ready before proceeding.
 ---
 
 ## **Step 3: Additional Utilities for Assembly**
-![Upgrade Kit]([https://example.com/upgrade-kit.jpg](https://cdn.help.prusa3d.com/wp-content/uploads/2024/08/488b1fe323da5f6c4276db8f95c7fe6e.jpg))
+![Upgrade Kit](https://media.printables.com/media/prints/57217/images/567879_64d27817-fbdf-4dd8-b69b-57ef2669cf33/mk3s_iso.png)
 
 You will need the following commonly available items (not included in the kit):
 - ✂️ **Scissors** – For cutting the bag containing bearings.

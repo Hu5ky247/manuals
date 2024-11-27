@@ -8,10 +8,12 @@ Welcome to the tutorial on how to upgrade your **Original Prusa i3 MK3/MK3S/MK3S
 
 ## **Step 1: Preparing the Upgrade Kit**
 Ensure you have the **upgrade kit** from Prusa Research ready before proceeding.
+![Upgrade Kit]([https://example.com/upgrade-kit.jpg](https://cdn.help.prusa3d.com/wp-content/uploads/2024/08/488b1fe323da5f6c4276db8f95c7fe6e.jpg))
 
 ---
 
 ## **Step 2: Getting the Necessary Tools**
+![Upgrade Kit]([https://example.com/upgrade-kit.jpg](https://cdn.help.prusa3d.com/wp-content/uploads/2024/08/488b1fe323da5f6c4276db8f95c7fe6e.jpg))
 
 ### The Package Includes:
 - 🛠 **Needle-nose pliers** (1x)
@@ -24,6 +26,8 @@ Ensure you have the **upgrade kit** from Prusa Research ready before proceeding.
 ---
 
 ## **Step 3: Additional Utilities for Assembly**
+![Upgrade Kit]([https://example.com/upgrade-kit.jpg](https://cdn.help.prusa3d.com/wp-content/uploads/2024/08/488b1fe323da5f6c4276db8f95c7fe6e.jpg))
+
 You will need the following commonly available items (not included in the kit):
 - ✂️ **Scissors** – For cutting the bag containing bearings.
 - 🖊 **Permanent marker** (black or dark colour) – For marking bearings and magnets.
@@ -34,6 +38,8 @@ You will need the following commonly available items (not included in the kit):
 ---
 
 ## **Step 4: Labels Guide**
+![Upgrade Kit]([https://example.com/upgrade-kit.jpg](https://cdn.help.prusa3d.com/wp-content/uploads/2024/08/488b1fe323da5f6c4276db8f95c7fe6e.jpg))
+
 All boxes and bags in the kit are labelled with their contents and part counts.
 
 - 📄 Download the **Cheatsheet** with 1:1 fastener drawings from [prusa.io/cheatsheet-mk4s](https://prusa.io/cheatsheet-mk4s). 
@@ -43,7 +49,7 @@ All boxes and bags in the kit are labelled with their contents and part counts.
 ---
 
 ## **Step 5: Spare Bag**
-
+![Upgrade Kit]([https://example.com/upgrade-kit.jpg](https://cdn.help.prusa3d.com/wp-content/uploads/2024/08/488b1fe323da5f6c4276db8f95c7fe6e.jpg))
 - 🛠 Includes spare parts like:
   - Thermal pads
   - Springs

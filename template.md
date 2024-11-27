@@ -99,5 +99,5 @@ Provide a brief introduction or description of the your card.
 
 ---
 
-> ⚠️ **Warning**: <Highlight potential pitfalls or important precautions.>
-> 💡 **Tip**: <Add helpful hints or insights here.>
+> ⚠️ **Warning**: Highlight potential pitfalls or important precautions.
+> 💡 **Tip**: Add helpful hints or insights here.

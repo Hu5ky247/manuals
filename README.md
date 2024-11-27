@@ -5,16 +5,15 @@ Welcome to the tutorial on how to upgrade your **Original Prusa i3 MK3/MK3S/MK3S
 > **Note**: Images in this guide feature the MK4S model, so MK4S logos may appear in the instructions.
 
 ---
+<img width="455" alt="Screenshot 2024-11-27 at 16 25 42" src="https://github.com/user-attachments/assets/9d41a012-68a9-4bac-8a28-c43de8c87e04">
 
 ## **Step 1: Preparing the Upgrade Kit**
 Ensure you have the **upgrade kit** from Prusa Research ready before proceeding.
-![Upgrade Kit](https://media.printables.com/media/prints/57217/images/567879_64d27817-fbdf-4dd8-b69b-57ef2669cf33/mk3s_iso.png)
 
 ---
 
 ## **Step 2: Getting the Necessary Tools**
-![Upgrade Kit](https://media.printables.com/media/prints/57217/images/567879_64d27817-fbdf-4dd8-b69b-57ef2669cf33/mk3s_iso.png)
-
+<img width="425" alt="Screenshot 2024-11-27 at 16 25 45" src="https://github.com/user-attachments/assets/fa2117b9-05ee-41b7-b074-b04d9c812568">
 ### The Package Includes:
 - 🛠 **Needle-nose pliers** (1x)
 - 🪛 **Philips (PH2) screwdriver** (1x)
@@ -26,9 +25,9 @@ Ensure you have the **upgrade kit** from Prusa Research ready before proceeding.
 ---
 
 ## **Step 3: Additional Utilities for Assembly**
-![Upgrade Kit](https://media.printables.com/media/prints/57217/images/567879_64d27817-fbdf-4dd8-b69b-57ef2669cf33/mk3s_iso.png)
-
-You will need the following commonly available items (not included in the kit):
+<img width="372" alt="Screenshot 2024-11-27 at 16 25 48" src="https://github.com/user-attachments/assets/70fcc217-548e-44a6-aad4-839b6d690b0c">
+You will need the following com
+monly available items (not included in the kit):
 - ✂️ **Scissors** – For cutting the bag containing bearings.
 - 🖊 **Permanent marker** (black or dark colour) – For marking bearings and magnets.
 - 🧻 **Paper towels or cloth** – For:
@@ -38,7 +37,6 @@ You will need the following commonly available items (not included in the kit):
 ---
 
 ## **Step 4: Labels Guide**
-![Upgrade Kit]([https://example.com/upgrade-kit.jpg](https://cdn.help.prusa3d.com/wp-content/uploads/2024/08/488b1fe323da5f6c4276db8f95c7fe6e.jpg))
 
 All boxes and bags in the kit are labelled with their contents and part counts.
 
@@ -49,7 +47,6 @@ All boxes and bags in the kit are labelled with their contents and part counts.
 ---
 
 ## **Step 5: Spare Bag**
-![Upgrade Kit]([https://example.com/upgrade-kit.jpg](https://cdn.help.prusa3d.com/wp-content/uploads/2024/08/488b1fe323da5f6c4276db8f95c7fe6e.jpg))
 - 🛠 Includes spare parts like:
   - Thermal pads
   - Springs

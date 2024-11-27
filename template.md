@@ -29,9 +29,9 @@ Provide a brief introduction or description of the your card.
 
 ---
 
-## Step 1: <Title>
+## Step 1: [Title]
 
-<Image 1>
+[Image 1]
 
 ### Instructions:
 1. _Describe the first action to take in detail._
@@ -43,23 +43,9 @@ Provide a brief introduction or description of the your card.
 
 ---
 
-## Step 2: <Title>
+## Step 2: [Title]
 
-<Image 2>
-
-### Instructions:
-1. _Describe the actions required._
-2. _Provide additional details if necessary._
-
-### Tools and Materials Needed:
-- **List all required tools and materials.**
-
-
----
-
-## Step 3: <Title>
-
-<Image 3>
+[Image 2]
 
 ### Instructions:
 1. _Describe the actions required._
@@ -71,9 +57,9 @@ Provide a brief introduction or description of the your card.
 
 ---
 
-## Step 4: <Title>
+## Step 3: [Title]
 
-<Image 4>
+[Image 3]
 
 ### Instructions:
 1. _Describe the actions required._
@@ -85,9 +71,23 @@ Provide a brief introduction or description of the your card.
 
 ---
 
-## Step 5: <Title>
+## Step 4: [Title]
 
-<Image 5>
+[Image 4]
+
+### Instructions:
+1. _Describe the actions required._
+2. _Provide additional details if necessary._
+
+### Tools and Materials Needed:
+- **List all required tools and materials.**
+
+
+---
+
+## Step 5: [Title]
+
+[Image 5]
 
 ### Instructions:
 1. _Describe the actions required._

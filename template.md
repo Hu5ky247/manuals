@@ -11,12 +11,12 @@
 
 ---
 
-# <Name of your Graphics Card> Fanmod Installation Guide
+# [Name of your Graphics Card] Fanmod Installation Guide
 
 ## Overview
 Provide a brief introduction or description of the your card.
 
-## Fanmod Fan Count: <fanCount, 1 2 or 3>
+## Fanmod Fan Count: [fanCount, 1 2 or 3]
 
 ---
 
@@ -100,4 +100,5 @@ Provide a brief introduction or description of the your card.
 ---
 
 > ⚠️ **Warning**: Highlight potential pitfalls or important precautions.
+
 > 💡 **Tip**: Add helpful hints or insights here.

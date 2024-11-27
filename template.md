@@ -1,4 +1,4 @@
-# Markdown/Formatting Legend
+# Markdown/Formatting Legend (Delete Before Submitting)
 - **Bold text**: Use this to highlight important information or key points.
 - _Italic text_: Use for emphasis, supplementary details, or minor notes.
 - `Inline code`: Use this for commands, code snippets, or filenames that users need to input or refer to.

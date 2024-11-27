@@ -11,9 +11,9 @@ Welcome to the tutorial on how to upgrade your **Original Prusa i3 MK3/MK3S/MK3S
 Ensure you have the **upgrade kit** from Prusa Research ready before proceeding.
 
 ---
+<img width="425" alt="Screenshot 2024-11-27 at 16 25 45" src="https://github.com/user-attachments/assets/fa2117b9-05ee-41b7-b074-b04d9c812568">
 
 ## **Step 2: Getting the Necessary Tools**
-<img width="425" alt="Screenshot 2024-11-27 at 16 25 45" src="https://github.com/user-attachments/assets/fa2117b9-05ee-41b7-b074-b04d9c812568">
 ### The Package Includes:
 - 🛠 **Needle-nose pliers** (1x)
 - 🪛 **Philips (PH2) screwdriver** (1x)
@@ -23,11 +23,11 @@ Ensure you have the **upgrade kit** from Prusa Research ready before proceeding.
 - 🛠 **Allen key set**
 
 ---
+<img width="372" alt="Screenshot 2024-11-27 at 16 25 48" src="https://github.com/user-attachments/assets/70fcc217-548e-44a6-aad4-839b6d690b0c">
 
 ## **Step 3: Additional Utilities for Assembly**
-<img width="372" alt="Screenshot 2024-11-27 at 16 25 48" src="https://github.com/user-attachments/assets/70fcc217-548e-44a6-aad4-839b6d690b0c">
-You will need the following com
-monly available items (not included in the kit):
+
+You will need the following commonly available items (not included in the kit):
 - ✂️ **Scissors** – For cutting the bag containing bearings.
 - 🖊 **Permanent marker** (black or dark colour) – For marking bearings and magnets.
 - 🧻 **Paper towels or cloth** – For:
